@@ -46,4 +46,7 @@ According to the charts mostof the matches been played in the city as follows:
         
 What i can observe from the chart is that the vishakhapatnam has the most highest frequency in the number of games played, so the chances that the next match is to be played in vizag(vishakhapatnam) is vey high among the others.
 
+<b>3</b>
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Match/Analysis/intern3.png)
+
 <b>Back:</b>[Click](./README.md)
