@@ -36,4 +36,14 @@ So The frequesncy and probabilty of the opponent team is very high and our team 
 
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Match/Analysis/intern2.png)
 
+This charts represents thes places where most of the maches been played acoordingly.<br>
+According to the charts mostof the matches been played in the city as follows:
+
+        1.Vishakhapatnam
+        2.Mumbai
+        3.Ranchi.
+        and etc.
+        
+What i can observe from the chart is that the vishakhapatnam has the most highest frequency in the number of games played, so the chances that the next match is to be played in vizag(vishakhapatnam) is vey high among the others.
+
 <b>Back:</b>[Click](./README.md)
