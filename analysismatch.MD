@@ -49,4 +49,20 @@ What i can observe from the chart is that the vishakhapatnam has the most highes
 <b>3</b>
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Match/Analysis/intern3.png)
 
+<b>4 </b>
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Match/Analysis/intern4.png)
+
+The Most of the matches played :
+
+        1.Mostly in india.
+        2 Least matches played in U.A.E
+<b> 5 </b>
+The list of the place where matches held
+
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Match/Analysis/intern5.png)
+
+<b>6</b>
+
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Match/Analysis/newplot.png)
+
 <b>Back:</b>[Click](./README.md)
