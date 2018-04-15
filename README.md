@@ -29,8 +29,10 @@ To understand the real complex scenario it is important to understand the depth 
       
 # Analysis on  
 1.Match dataset :"https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Match/Dataset/Match.csv"
+2.Bitcoin dataset :"https://www.quandl.com/data/BITCOINWATCH-Bitcoin-Watch"
 
 # Insights generated and overview.
  ### 1.Match datset : [Go to analysis file](./analysismatch.MD)
+ ### 1.Bitcoin dataset : [Go to analysis file](./analysisbitcoin.MD)
 
 <b>Note:</b>This project is still under development.Later i will be providing the link to the dataset.
