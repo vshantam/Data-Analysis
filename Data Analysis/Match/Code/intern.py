@@ -51,5 +51,3 @@ plt.show()
 
 plt.pie([500,57,20], labels = ['India','South Africa','U.A.E'])
 
-df1 = pd.read_csv("Ball_By_Ball.csv")
-
