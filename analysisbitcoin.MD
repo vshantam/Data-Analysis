@@ -12,7 +12,7 @@ Bitcoin is a cryptocurrency and worldwide payment system. It is the first decent
  
  The dataset which i am using in this analysis is taken from quandl.<br>
  [click me](https://www.quandl.com/data/BITCOINWATCH-Bitcoin-Watch) to follow the dataset on quandl and it is not premium content.
- if you are using python then you can directly sync to qundl using quandl API.<br>
+ if you are using python then you can directly sync to qundl using quandl API.<br>I will suggest you to get your own API key using this [link](https://www.quandl.com/account/api)
  
  Here is the python code to get the above dataset :
  
