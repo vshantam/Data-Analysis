@@ -15,8 +15,9 @@ Bitcoin is a cryptocurrency and worldwide payment system. It is the first decent
  if you are using python then you can directly sync to qundl using quandl API.<br>I will suggest you to get your own API key using this [link](https://www.quandl.com/account/api)
  
  Here is the python code to get the above dataset :
- 
-      quandl.get("BITCOINWATCH/MINING", authtoken="8NCm_V55725o9WHs9wsb")
+  
+      tok = ""# make sure you use your own token
+      quandl.get("BITCOINWATCH/MINING", authtoken=tok)
  Use the above line in your script directly and you are good to go.
  
  ### Type of approach
