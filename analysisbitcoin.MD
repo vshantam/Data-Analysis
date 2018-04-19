@@ -22,7 +22,7 @@ Bitcoin is a cryptocurrency and worldwide payment system. It is the first decent
  
  ### Type of approach
  
-The type of approaches that i am using is colled time series analysis.i will be assesing the data from the past and hopefully will be able to derive some meaningful reasults.
+The type of approaches that i am using is called time series analysis.i will be assesing the data from the past and hopefully will be able to derive some meaningful reasults.
 
 <b> 1. </b> 
 
