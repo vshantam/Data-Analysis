@@ -26,6 +26,6 @@ The type of approaches that i am using is colled time series analysis.i will be 
 
 <b> 1. </b> 
 
-![alt_tag](Data Analysis/Bitcoin/Analysis/figure_1.png)
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_1.png)
 
 <b>Back</b> :[click me](./README.md)
