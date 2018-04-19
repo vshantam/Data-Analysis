@@ -28,4 +28,6 @@ The type of approaches that i am using is called time series analysis.i will be 
 
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_1.png)
 
+As you can see above the there is a great rise the feild of bitcoin since 2014 ( according to the dataset) and there was also the fall in between the year 2014 and the year 2015 but since after that it pcked up the pace again.The above chart represents variation of the Total BTC over past couple of years.<br>
+
 <b>Back</b> :[click me](./README.md)
