@@ -38,9 +38,9 @@ This chart represents the relationship of bitcoin transactions over the years, w
 Let me represent the average transaction chart:<br>
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_3.png)
 
-So, now you believe the differences of the bitcoin transactions.to be more percisely here is the combined chart that represents the transaction history
+So, now i believe you can see the differences of the bitcoin transactions.to be more percisely here is the combined chart that represents the transaction history
 
-![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_2.png)
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_4.png)
 
 
 
