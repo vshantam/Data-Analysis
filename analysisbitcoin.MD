@@ -35,7 +35,14 @@ As you can see above the there is a great rise the feild of bitcoin since 2014 (
 
 This chart represents the relationship of bitcoin transactions over the years, well to be percisely the transactions increased over the period of time but there wass a drop down near about in the november in 2017. from than till now the fluctuations of the bitcoin transactions is increased and they are not much stable as before.<br>
 
-Let me represent the average transaction chart:
+Let me represent the average transaction chart:<br>
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_3.png)
+
+So, now you believe the differences of the bitcoin transactions.to be more percisely here is the combined chart that represents the transaction history
+
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_2.png)
+
+
 
 
 
