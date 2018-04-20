@@ -30,4 +30,9 @@ The type of approaches that i am using is called time series analysis.i will be 
 
 As you can see above the there is a great rise the feild of bitcoin since 2014 ( according to the dataset) and there was also the fall in between the year 2014 and the year 2015 but since after that it pcked up the pace again.The above chart represents variation of the Total BTC over past couple of years.<br>
 
+<b> 2. </b>
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_2.png)
+
+This chart represents the relationship of bitcoin transactions over the years, well to be percisely the transactions increased over the period of time but there wass a drop down near about the november in 2017. from than till now the fluctuations of the bitcoin is increased they are not much stable as before.<br>
+
 <b>Back</b> :[click me](./README.md)
