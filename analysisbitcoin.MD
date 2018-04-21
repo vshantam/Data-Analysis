@@ -42,12 +42,20 @@ So, now i believe you can see the differences of the bitcoin transactions.to be 
 
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_4.png)
 
+<b> 3. </b>
+The below graph represents the number of bitcoin sent , which is not very impressive compared to the transaction graph.
+
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_5.png)
 
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_6.png)
 
+The below chart comapres all the transactions versus bitcoin sent over the past couple of years.
+
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_7.png)
 
+This is zoomed version of the above chart:
+
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_8.png)
 
 
 
