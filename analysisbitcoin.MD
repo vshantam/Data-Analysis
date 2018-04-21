@@ -76,7 +76,7 @@ What we can observe from the chart that the blocks variation is stable over the 
 <b> 5.</b>
 
 
-THe difficulty and the next difficulty variation plot
+The difficulty and the next difficulty variation plot
 
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_11.png)
 
