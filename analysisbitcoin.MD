@@ -69,12 +69,19 @@ Now that we know that bitcoin uses <b> Block Chain </b> technology , so it is ne
 
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_10.png)
 
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_12.png)
+
 What we can observe from the chart that the blocks variation is stable over the years ,although there was sometimes the there was a drop (13 times ) to be percisely . but it is not that bad comparing to all those years.
 
 <b> 5.</b>
 
+
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_11.png)
 
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_13.png)
 
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_14.png)
+
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_15.png)
 
 <b>Back</b> :[click me](./README.md)
