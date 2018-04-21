@@ -60,6 +60,15 @@ This is zoomed version of the above chart:
 
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_8.1.png)
 
+<b> 4. </b>
+
+Now that we know that bitcoin uses <b> Block Chain </b> technology , so it is necessary to analyze the  blocks variation over the years.
+
+
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_9.png)
+
+![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_10.png)
+
 
 
 
