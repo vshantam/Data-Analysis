@@ -84,6 +84,8 @@ The difficulty and the next difficulty variation plot
 
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_14.png)
 
+Looks like pretty much same, not much of a difference .
+
 <b> 5. </b>
 
 The Network Hashrate analysis
