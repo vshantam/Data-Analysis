@@ -92,4 +92,8 @@ The Network Hashrate analysis
 
 ![alt_tag](https://github.com/vshantam/Data-Analysis/blob/master/Data%20Analysis/Bitcoin/Analysis/figure_15.png)
 
+<b> Overall Conclusion </b>
+
+From all the above conclusion chart we can easily make out the the rise in the feild of cryptocurrency using Bitcoins is not as much as it used to be before.so, if you are thinking to invest , you might not make as much profit as people made earlier while investing.
+
 <b>Back</b> :[click me](./README.md)
